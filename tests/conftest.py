@@ -1,4 +1,3 @@
-from selenium import webdriver
 import pytest
 from pages.login_page.login_page import LoginPage
 from base.webdriver_factory import get_browser_driver
